@@ -46,7 +46,7 @@
 @media screen and (max-width: 600px) {
   #contact,
   footer {
-    height: 40vh;
+    height: 60vh;
   }
   #profile {
     height: 83vh;
@@ -91,6 +91,9 @@
     font-size: 1.25rem;
   }
   .title {
+    font-size: 2rem;
+  }
+  .title1 {
     font-size: 2rem;
   }
   .text-container {
